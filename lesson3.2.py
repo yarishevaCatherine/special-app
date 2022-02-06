@@ -21,5 +21,5 @@ for n in range(2, operands + 1):
       answer /= member_n
       answer_string += ' / ' + str(member_n)
 print(answer_string, '=', answer)
-
+print('Конец программы')
 
