@@ -1,4 +1,4 @@
-operation = input('Выберите операцию для выполнения: ')
+operation = input('Выберите необходимую операцию для выполнения: ')
 while operation != '-' and operation != '+' and operation != '*' and operation != '/':
    print('Ошибка: такой операции не существует. Попробуйте ещё раз.')
    operation = input('Выберите операцию: ')
